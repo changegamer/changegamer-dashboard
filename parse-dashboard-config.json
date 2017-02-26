@@ -1,0 +1,20 @@
+{
+  "apps": [
+    {
+      "serverURL": "https://changegamer.herokuapp.com//parse",
+      "appId": "be23504781f842fca0044d88e214151c",
+      "masterKey": "Q6gVAfyu5X7p9wux",
+      "appName": "Hive"
+    }
+  ],
+  "users": [
+    {
+      "user":"kenan",
+      "pass":"changegamer1"
+    },
+    {
+      "user":"todd",
+      "pass":"changegamer1"
+    },
+  ]
+}

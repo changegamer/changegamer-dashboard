@@ -1,0 +1,21 @@
+{
+  "name": "changegamer-dashboard",
+  "version": "1.0.0",
+  "description": "dashboard for changegamer database",
+  "main": "index.js",
+  "dependencies": {
+    "parse-dashboard": "^1.0.25"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "changegamer",
+    "parse",
+    "dashboard",
+    "database"
+  ],
+  "author": "Kenan",
+  "license": "ISC"
+}
